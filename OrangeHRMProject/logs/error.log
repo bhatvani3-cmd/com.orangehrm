@@ -1,0 +1,941 @@
+2026-01-07 14:41:46 [main] FATAL BaseClass - This is a fatal message
+2026-01-07 14:41:46 [main] ERROR BaseClass - This is a error message
+2026-01-07 14:42:10 [main] FATAL BaseClass - This is a fatal message
+2026-01-07 14:42:10 [main] ERROR BaseClass - This is a error message
+2026-01-07 14:42:15 [main] FATAL BaseClass - This is a fatal message
+2026-01-07 14:42:15 [main] ERROR BaseClass - This is a error message
+2026-01-08 12:12:42 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 12:12:42 [main] ERROR BaseClass - This is a error message
+2026-01-08 12:12:43 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 12:12:43 [main] ERROR BaseClass - This is a error message
+2026-01-08 12:12:55 [main] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//button[text() = ' Login ']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f369a8d3f8329d6475c06c994b4985b4, findElement {using=xpath, value=//button[text() = ' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49680}, goog:processID: 31708, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49680/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f369a8d3f8329d6475c06c994b4985b4
+2026-01-08 12:12:56 [main] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//button[text() = ' Login ']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2c05f057c27530cf4439de124841f7a, findElement {using=xpath, value=//button[text() = ' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49679}, goog:processID: 22904, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49679/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2c05f057c27530cf4439de124841f7a
+2026-01-08 12:12:56 [main] ERROR ActionDriver - Unable to get Description no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d2c05f057c27530cf4439de124841f7a, findElement {using=xpath, value=//span[@class='oxd-userdropdown-tab']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49679}, goog:processID: 22904, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49679/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d2c05f057c27530cf4439de124841f7a
+2026-01-08 12:13:07 [main] ERROR ActionDriver - Unable to get Description invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f369a8d3f8329d6475c06c994b4985b4, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49680}, goog:processID: 31708, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49680/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f369a8d3f8329d6475c06c994b4985b4
+2026-01-08 12:13:27 [main] ERROR ActionDriver - Element is not clickableExpected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+2026-01-08 12:13:27 [main] ERROR ActionDriver - unable Clicked an element
+2026-01-08 12:13:58 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 12:13:58 [main] ERROR BaseClass - This is a error message
+2026-01-08 12:14:01 [main] ERROR ActionDriver - Unable to get Description stale element reference: stale element not found
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c5e58373126f66284e1a5382540279, getElementDomAttribute {name=name, id=f.21C11CD3C7A72985D5C67034E95914E7.d.4457D0AC44B4FF634219864C9B2CA86C.e.10}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57117}, goog:processID: 30316, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57117/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (b5c5e58373126f66284e1a5382540279)] -> xpath: //button[text() = ' Login ']]
+Session ID: b5c5e58373126f66284e1a5382540279
+2026-01-08 12:14:13 [main] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b5c5e58373126f66284e1a5382540279, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57117}, goog:processID: 30316, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57117/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b5c5e58373126f66284e1a5382540279
+2026-01-08 12:16:10 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 12:16:10 [main] ERROR BaseClass - This is a error message
+2026-01-08 12:23:02 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 12:23:02 [main] ERROR BaseClass - This is a error message
+2026-01-08 14:38:02 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:38:02 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:38:04 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:38:04 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:38:07 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:38:07 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:39:50 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:39:50 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:39:52 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:39:52 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:39:54 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:39:54 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:42:24 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:42:24 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:42:26 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:42:26 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:42:33 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:42:33 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:42:38 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:42:38 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 14:43:02 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:43:02 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 14:43:02 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 14:43:02 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 14:43:02 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 14:43:02 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 14:43:04 [TestNG-test-Test-4] FATAL BaseClass - This is a fatal message
+2026-01-08 14:43:04 [TestNG-test-Test-4] ERROR BaseClass - This is a error message
+2026-01-08 14:43:28 [TestNG-test-Test-3] ERROR ActionDriver - Element is not visibleSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49345}, goog:processID: 28132, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49345/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 14:43:28 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49345}, goog:processID: 28132, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49345/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 14:43:28 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49345}, goog:processID: 28132, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49345/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 14:43:28 [TestNG-test-Test-3] ERROR ActionDriver - Error displaying the element null Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49345}, goog:processID: 28132, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49345/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 14:46:39 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 14:46:39 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 14:46:40 [TestNG-test-Test-4] FATAL BaseClass - This is a fatal message
+2026-01-08 14:46:40 [TestNG-test-Test-4] ERROR BaseClass - This is a error message
+2026-01-08 14:46:40 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 14:46:40 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 14:46:42 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 14:46:42 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 16:56:30 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 16:56:30 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 16:56:30 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 16:56:30 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 16:56:31 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 16:56:31 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 16:56:32 [TestNG-test-Test-4] FATAL BaseClass - This is a fatal message
+2026-01-08 16:56:32 [TestNG-test-Test-4] ERROR BaseClass - This is a error message
+2026-01-08 16:57:24 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:57:24 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:57:29 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:57:29 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:57:45 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:57:45 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:58:10 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:58:10 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:58:12 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:58:12 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:58:20 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:58:20 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:58:25 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 16:58:25 [main] ERROR BaseClass - This is a error message
+2026-01-08 16:58:52 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 16:58:52 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 16:58:55 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 16:58:55 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 16:59:08 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 16:59:08 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 16:59:17 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 16:59:17 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:00:46 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:00:46 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:00:52 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:00:52 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:00:57 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:00:57 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:01:20 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:01:20 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:01:20 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:01:20 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:01:22 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 17:01:22 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 17:01:47 [TestNG-test-Test-2] ERROR ActionDriver - Element is not visibleSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56402}, goog:processID: 29500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56402/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:01:47 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56402}, goog:processID: 29500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56402/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:01:47 [TestNG-test-Test-2] ERROR ActionDriver - Unable to compare Text at null Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56402}, goog:processID: 29500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56402/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:03:38 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 17:03:38 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 17:03:38 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:03:38 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:03:39 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:03:39 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:03:52 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58d5d8085f840c2e52a5e2f555a800ac, findElement {using=xpath, value=//span[@class='oxd-userdropdown-tab']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64018}, goog:processID: 25984, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64018/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58d5d8085f840c2e52a5e2f555a800ac
+2026-01-08 17:04:03 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableError communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58d5d8085f840c2e52a5e2f555a800ac, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64018}, goog:processID: 25984, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64018/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58d5d8085f840c2e52a5e2f555a800ac
+2026-01-08 17:04:03 [TestNG-test-Test-3] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:04:03 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58d5d8085f840c2e52a5e2f555a800ac, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64018}, goog:processID: 25984, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64018/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58d5d8085f840c2e52a5e2f555a800ac
+2026-01-08 17:04:03 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableError communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [58d5d8085f840c2e52a5e2f555a800ac, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64018}, goog:processID: 25984, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64018/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 58d5d8085f840c2e52a5e2f555a800ac
+2026-01-08 17:04:03 [TestNG-test-Test-3] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:10:08 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:10:08 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:10:08 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:10:08 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:10:10 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 17:10:10 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 17:10:44 [TestNG-test-Test-2] ERROR ActionDriver - Element is not visibleExpected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59436}, goog:processID: 28092, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59436/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ae396285944bb0021921642514cf73d
+2026-01-08 17:11:04 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ae396285944bb0021921642514cf73d, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59436}, goog:processID: 28092, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59436/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ae396285944bb0021921642514cf73d
+2026-01-08 17:11:04 [TestNG-test-Test-2] ERROR ActionDriver - Unable to compare Text at null no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ae396285944bb0021921642514cf73d, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59436}, goog:processID: 28092, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59436/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ae396285944bb0021921642514cf73d
+2026-01-08 17:11:04 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableExpected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59436}, goog:processID: 28092, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59436/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2ae396285944bb0021921642514cf73d
+2026-01-08 17:12:57 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 17:12:57 [main] ERROR BaseClass - This is a error message
+2026-01-08 17:13:08 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 17:13:08 [main] ERROR BaseClass - This is a error message
+2026-01-08 17:13:36 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 17:13:36 [main] ERROR BaseClass - This is a error message
+2026-01-08 17:13:41 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 17:13:41 [main] ERROR BaseClass - This is a error message
+2026-01-08 17:15:01 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:01 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:15:09 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:09 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:15:15 [TestNG-tests-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:15 [TestNG-tests-1] ERROR BaseClass - This is a error message
+2026-01-08 17:15:34 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:34 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:15:34 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:34 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:15:39 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:39 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:15:58 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:58 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:15:59 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:15:59 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:16:00 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 17:16:00 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 17:16:33 [TestNG-test-Test-2] ERROR ActionDriver - Element is not visibleExpected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56331}, goog:processID: 25936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56331/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c8de09bf4cb6da0472c5d83740952b7
+2026-01-08 17:16:44 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3c8de09bf4cb6da0472c5d83740952b7, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56331}, goog:processID: 25936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56331/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:16:44 [TestNG-test-Test-2] ERROR ActionDriver - Unable to compare Text at null no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3c8de09bf4cb6da0472c5d83740952b7, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56331}, goog:processID: 25936, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56331/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c8de09bf4cb6da0472c5d83740952b7
+2026-01-08 17:20:29 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:20:29 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:20:30 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 17:20:30 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 17:20:32 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:20:32 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:20:44 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [451ae034a433b7f9d14ff8ec5a2a59cb, findElement {using=xpath, value=//span[@class='oxd-userdropdown-tab']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57557}, goog:processID: 12980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57557/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 451ae034a433b7f9d14ff8ec5a2a59cb
+2026-01-08 17:21:16 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableExpected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57557}, goog:processID: 12980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57557/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 451ae034a433b7f9d14ff8ec5a2a59cb
+2026-01-08 17:21:26 [TestNG-test-Test-3] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:21:36 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [451ae034a433b7f9d14ff8ec5a2a59cb, findElement {using=xpath, value=//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57557}, goog:processID: 12980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57557/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 451ae034a433b7f9d14ff8ec5a2a59cb
+2026-01-08 17:22:07 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableExpected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57557}, goog:processID: 12980, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57557/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 451ae034a433b7f9d14ff8ec5a2a59cb
+2026-01-08 17:22:17 [TestNG-test-Test-3] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:39:24 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:39:24 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:39:24 [TestNG-test-Test-3] FATAL BaseClass - This is a fatal message
+2026-01-08 17:39:24 [TestNG-test-Test-3] ERROR BaseClass - This is a error message
+2026-01-08 17:39:26 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:39:26 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:39:41 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dcaa6ffb6bf14b70c98dc1a6880096a4, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50791}, goog:processID: 35692, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50791/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dcaa6ffb6bf14b70c98dc1a6880096a4
+2026-01-08 17:39:51 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50791}, goog:processID: 35692, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50791/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:39:51 [TestNG-test-Test-3] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:39:51 [TestNG-test-Test-3] ERROR ActionDriver - Unable to get Description Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50791}, goog:processID: 35692, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50791/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:39:51 [TestNG-test-Test-3] ERROR ActionDriver - Element is not clickableSession ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50791}, goog:processID: 35692, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50791/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:39:51 [TestNG-test-Test-3] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:47:14 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 17:47:14 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 17:47:16 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 17:47:16 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 17:47:27 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [318d12cf73599c60fb5e83b2b98544ca, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55690}, goog:processID: 13056, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55690/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 318d12cf73599c60fb5e83b2b98544ca
+2026-01-08 17:47:39 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55690}, goog:processID: 13056, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55690/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:47:39 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 17:47:39 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55690}, goog:processID: 13056, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55690/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:47:39 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55690}, goog:processID: 13056, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55690/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 17:47:39 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 18:06:37 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 18:06:37 [main] ERROR BaseClass - This is a error message
+2026-01-08 18:06:42 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 18:06:42 [main] ERROR BaseClass - This is a error message
+2026-01-08 20:52:59 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 20:52:59 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 20:53:02 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 20:53:02 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 20:53:33 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60722}, goog:processID: 17700, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60722/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94d8f9904684c9d8cb3ca4c3eab711f2
+2026-01-08 20:53:33 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94d8f9904684c9d8cb3ca4c3eab711f2, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60722}, goog:processID: 17700, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60722/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94d8f9904684c9d8cb3ca4c3eab711f2
+2026-01-08 20:53:33 [TestNG-test-Test-1] ERROR ActionDriver - Unable to compare Text at Element located by: By.xpath: //p[text()='Invalid credentials'] Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [94d8f9904684c9d8cb3ca4c3eab711f2, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60722}, goog:processID: 17700, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60722/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 94d8f9904684c9d8cb3ca4c3eab711f2
+2026-01-08 20:54:30 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 20:54:30 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 20:54:33 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 20:54:33 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 20:55:07 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65028}, goog:processID: 33028, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65028/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92bacbf5fe62bee248b591ed26c8e80a
+2026-01-08 20:55:18 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description Error communicating with the remote browser. It may have died.
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92bacbf5fe62bee248b591ed26c8e80a, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65028}, goog:processID: 33028, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65028/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92bacbf5fe62bee248b591ed26c8e80a
+2026-01-08 20:55:18 [TestNG-test-Test-1] ERROR ActionDriver - Unable to compare Text at Element located by: By.xpath: //p[text()='Invalid credentials'] no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [92bacbf5fe62bee248b591ed26c8e80a, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65028}, goog:processID: 33028, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:65028/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 92bacbf5fe62bee248b591ed26c8e80a
+2026-01-08 20:55:35 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 20:55:35 [main] ERROR BaseClass - This is a error message
+2026-01-08 20:56:09 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 20:56:09 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 20:56:11 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 20:56:11 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 20:56:44 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57517}, goog:processID: 10496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57517/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c8018baa9235034e74b7e0673ce2990
+2026-01-08 20:57:04 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c8018baa9235034e74b7e0673ce2990, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57517}, goog:processID: 10496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57517/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c8018baa9235034e74b7e0673ce2990
+2026-01-08 20:57:04 [TestNG-test-Test-1] ERROR ActionDriver - Unable to compare Text at Element located by: By.xpath: //p[text()='Invalid credentials'] no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1c8018baa9235034e74b7e0673ce2990, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57517}, goog:processID: 10496, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57517/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1c8018baa9235034e74b7e0673ce2990
+2026-01-08 21:01:46 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:01:46 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:01:47 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:01:47 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:02:22 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56274}, goog:processID: 1680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56274/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 047ebd54485d1b0b1b4db1edaf729386
+2026-01-08 21:02:42 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [047ebd54485d1b0b1b4db1edaf729386, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56274}, goog:processID: 1680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56274/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 047ebd54485d1b0b1b4db1edaf729386
+2026-01-08 21:02:42 [TestNG-test-Test-1] ERROR ActionDriver - Unable to compare Text at Element located by: By.xpath: //p[text()='Invalid credentials'] no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [047ebd54485d1b0b1b4db1edaf729386, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56274}, goog:processID: 1680, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56274/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 047ebd54485d1b0b1b4db1edaf729386
+2026-01-08 21:14:04 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:14:04 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:15:35 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:15:35 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:15:49 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:15:49 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:16:04 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:16:04 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:16:07 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:16:07 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:16:40 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1b46c08a76d5590f104c2377ecf447ba, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53477}, goog:processID: 30852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53477/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b46c08a76d5590f104c2377ecf447ba
+2026-01-08 21:17:10 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53477}, goog:processID: 30852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53477/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b46c08a76d5590f104c2377ecf447ba
+2026-01-08 21:17:40 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 21:18:10 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1b46c08a76d5590f104c2377ecf447ba, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53477}, goog:processID: 30852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53477/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b46c08a76d5590f104c2377ecf447ba
+2026-01-08 21:18:40 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53477}, goog:processID: 30852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53477/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1b46c08a76d5590f104c2377ecf447ba
+2026-01-08 21:19:10 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 21:19:13 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:19:13 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:19:38 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:19:38 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:19:54 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:19:54 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:19:56 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:19:56 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:20:27 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53812}, goog:processID: 30808, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53812/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1695bb6b20376b9f91171403cec7d1e0
+2026-01-08 21:20:58 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53812}, goog:processID: 30808, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53812/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1695bb6b20376b9f91171403cec7d1e0
+2026-01-08 21:25:27 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:25:27 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:25:29 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:25:29 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:25:38 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, getElementDomAttribute {name=name, id=f.5497E2F657C766A33799DDF4CE056248.d.164BF891FD4C6077021BFD229F4F8B41.e.11}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (d669795033091b3ad9e454cc71cfeb9c)] -> xpath: //button[text() = ' Login ']]
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //button[text() = ' Login ']invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, findElement {value=//button[text() = ' Login '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - Element is not visibleBy.xpath: //span[text()='Admin']invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:39 [TestNG-test-Test-2] ERROR ActionDriver - Error displaying the element Element located by: By.xpath: //span[text()='Admin'] invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d669795033091b3ad9e454cc71cfeb9c, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55110}, goog:processID: 32816, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55110/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d669795033091b3ad9e454cc71cfeb9c
+2026-01-08 21:25:51 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:25:51 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:25:53 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:25:53 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:26:24 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63929}, goog:processID: 33348, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63929/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5fae01817c3d97ee962bb51c26f96f2
+2026-01-08 21:26:55 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63929}, goog:processID: 33348, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63929/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e5fae01817c3d97ee962bb51c26f96f2
+2026-01-08 21:27:42 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:27:42 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:27:47 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:27:47 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:28:12 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:28:12 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:28:13 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:28:13 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:28:44 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60520}, goog:processID: 26932, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60520/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f43bedd1e9fe1e748e6cd94d4d170c8
+2026-01-08 21:29:19 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60520}, goog:processID: 26932, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60520/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f43bedd1e9fe1e748e6cd94d4d170c8
+2026-01-08 21:32:55 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:32:55 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:36:54 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:36:54 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:37:13 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:37:13 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:39:07 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:39:07 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:39:46 [main] FATAL BaseClass - This is a fatal message
+2026-01-08 21:39:46 [main] ERROR BaseClass - This is a error message
+2026-01-08 21:44:19 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:44:19 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 21:44:22 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:44:22 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:44:32 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e2e4fee8226f314a7a33b29fbc769f0, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64336}, goog:processID: 34500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64336/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e2e4fee8226f314a7a33b29fbc769f0
+2026-01-08 21:44:32 [TestNG-test-Test-2] ERROR ActionDriver - Element is not visibleBy.xpath: //span[text()='Admin']invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e2e4fee8226f314a7a33b29fbc769f0, isElementDisplayed {id=f.3A280FA3FEF938D0D09BBF1D9690AE83.d.CCB0D05DCF25ED02934AD255B2C55D7C.e.27}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64336}, goog:processID: 34500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64336/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (2e2e4fee8226f314a7a33b29fbc769f0)] -> xpath: //span[text()='Admin']]
+Session ID: 2e2e4fee8226f314a7a33b29fbc769f0
+2026-01-08 21:44:32 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e2e4fee8226f314a7a33b29fbc769f0, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64336}, goog:processID: 34500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64336/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e2e4fee8226f314a7a33b29fbc769f0
+2026-01-08 21:44:32 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e2e4fee8226f314a7a33b29fbc769f0, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64336}, goog:processID: 34500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64336/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e2e4fee8226f314a7a33b29fbc769f0
+2026-01-08 21:44:32 [TestNG-test-Test-2] ERROR ActionDriver - Error displaying the element Element located by: By.xpath: //span[text()='Admin'] invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e2e4fee8226f314a7a33b29fbc769f0, findElement {value=//span[text()='Admin'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64336}, goog:processID: 34500, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64336/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e2e4fee8226f314a7a33b29fbc769f0
+2026-01-08 21:48:23 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 21:48:23 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 21:50:48 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 21:50:48 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 22:02:45 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 22:02:45 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 22:02:48 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:02:48 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 22:03:19 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54546}, goog:processID: 4616, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54546/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0302e730c95890c2e77be1549a001226
+2026-01-08 22:10:39 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:10:39 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 22:10:42 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 22:10:42 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 22:12:22 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//button[text() = ' Login ']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a5f0e365e9decf910dff7c87d937506a, findElement {using=xpath, value=//button[text() = ' Login ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62713}, goog:processID: 27196, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62713/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f0e365e9decf910dff7c87d937506a
+2026-01-08 22:12:52 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //button[text() = ' Login ']Expected condition failed: waiting for element to be clickable: By.xpath: //button[text() = ' Login '] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62713}, goog:processID: 27196, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62713/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a5f0e365e9decf910dff7c87d937506a
+2026-01-08 22:13:47 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 22:13:47 [TestNG-test-Test-2] ERROR ActionDriver - Element is not visibleBy.xpath: //span[text()='Admin']Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//span[text()='Admin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63624}, goog:processID: 3508, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63624/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 22:13:47 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, findElement {using=xpath, value=//span[@class='oxd-userdropdown-tab']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63624}, goog:processID: 3508, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63624/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+2026-01-08 22:20:56 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:20:56 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 22:20:57 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 22:20:57 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 22:21:30 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7b6c66699f6090d8ef6e0236d28c5f9f, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50628}, goog:processID: 21016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50628/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b6c66699f6090d8ef6e0236d28c5f9f
+2026-01-08 22:22:00 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']Expected condition failed: waiting for element to be clickable: By.xpath: //span[@class='oxd-userdropdown-tab'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50628}, goog:processID: 21016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50628/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b6c66699f6090d8ef6e0236d28c5f9f
+2026-01-08 22:22:30 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 22:23:00 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Logout']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7b6c66699f6090d8ef6e0236d28c5f9f, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50628}, goog:processID: 21016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50628/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b6c66699f6090d8ef6e0236d28c5f9f
+2026-01-08 22:23:30 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']Expected condition failed: waiting for element to be clickable: By.xpath: //a[text()='Logout'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50628}, goog:processID: 21016, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50628/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b6c66699f6090d8ef6e0236d28c5f9f
+2026-01-08 22:23:39 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:23:39 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 22:23:42 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 22:23:42 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 22:24:00 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 22:24:13 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//span[@class='oxd-userdropdown-tab']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //span[@class='oxd-userdropdown-tab']invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=143.0.7499.170)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//span[@class='oxd-userdropdown-tab'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=password, using=name}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//button[text() = ' Login '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-2] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Element is not clickableBy.xpath: //button[text() = ' Login ']invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//button[text() = ' Login '], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-2] ERROR ActionDriver - Element is not clickableBy.xpath: //a[text()='Logout']invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-2] ERROR ActionDriver - unable Clicked an element
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - unable Clicked an element
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:24:15 [TestNG-test-Test-1] ERROR ActionDriver - Error displaying the element Element located by: By.xpath: //p[text()='Invalid credentials'] invalid session id
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [044984000637e13e83ce3369b781ac07, findElement {value=//p[text()='Invalid credentials'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50968}, goog:processID: 9852, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50968/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 044984000637e13e83ce3369b781ac07
+2026-01-08 22:29:47 [TestNG-test-Test-1] FATAL BaseClass - This is a fatal message
+2026-01-08 22:29:47 [TestNG-test-Test-1] ERROR BaseClass - This is a error message
+2026-01-08 22:29:51 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:29:51 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 22:30:33 [TestNG-test-Test-1] ERROR ActionDriver - Element is not visibleBy.xpath: //p[text()='Invalid credentials']Expected condition failed: waiting for visibility of element located by By.xpath: //p[text()='Invalid credentials'] (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50531}, goog:processID: 27552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50531/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6e66e7aa259b26e0a9b16022f3ba220
+2026-01-08 22:31:33 [TestNG-test-Test-1] ERROR ActionDriver - Unable to get Description no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6e66e7aa259b26e0a9b16022f3ba220, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50531}, goog:processID: 27552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50531/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6e66e7aa259b26e0a9b16022f3ba220
+2026-01-08 22:31:33 [TestNG-test-Test-1] ERROR ActionDriver - Unable to compare Text at Element located by: By.xpath: //p[text()='Invalid credentials'] no such element: Unable to locate element: {"method":"xpath","selector":"//p[text()='Invalid credentials']"}
+  (Session info: chrome=143.0.7499.170)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6e66e7aa259b26e0a9b16022f3ba220, findElement {using=xpath, value=//p[text()='Invalid credentials']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.170, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\bhatv\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50531}, goog:processID: 27552, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50531/devtoo..., se:cdpVersion: 143.0.7499.170, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6e66e7aa259b26e0a9b16022f3ba220
+2026-01-08 22:35:24 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:35:24 [TestNG-test-Test-2] ERROR BaseClass - This is a error message
+2026-01-08 22:36:16 [TestNG-test-Test-2] FATAL BaseClass - This is a fatal message
+2026-01-08 22:36:16 [TestNG-test-Test-2] ERROR BaseClass - This is a error message

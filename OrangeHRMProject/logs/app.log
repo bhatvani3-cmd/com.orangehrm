@@ -1,0 +1,1564 @@
+2026-01-07 14:41:42 [main] INFO  BaseClass - config.properties file loaded
+2026-01-07 14:41:44 [main] INFO  BaseClass - Chrome instance created
+2026-01-07 14:41:46 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-07 14:41:46 [main] WARN  BaseClass - This is a warn message
+2026-01-07 14:41:46 [main] TRACE BaseClass - This is a trace message
+2026-01-07 14:41:46 [main] DEBUG BaseClass - This is a debug message
+2026-01-07 14:41:46 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-07 14:41:46 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-07 14:41:46 [main] INFO  ActionDriver - Text entered
+2026-01-07 14:41:47 [main] INFO  ActionDriver - Text entered
+2026-01-07 14:41:47 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:41:49 [main] INFO  ActionDriver - Element is displayed
+2026-01-07 14:41:49 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:41:50 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:41:51 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-07 14:42:06 [main] INFO  BaseClass - config.properties file loaded
+2026-01-07 14:42:07 [main] INFO  BaseClass - Chrome instance created
+2026-01-07 14:42:10 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-07 14:42:10 [main] WARN  BaseClass - This is a warn message
+2026-01-07 14:42:10 [main] TRACE BaseClass - This is a trace message
+2026-01-07 14:42:10 [main] DEBUG BaseClass - This is a debug message
+2026-01-07 14:42:10 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-07 14:42:10 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-07 14:42:10 [main] INFO  ActionDriver - Text entered
+2026-01-07 14:42:10 [main] INFO  ActionDriver - Text entered
+2026-01-07 14:42:11 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:42:12 [main] INFO  ActionDriver - Element is displayed
+2026-01-07 14:42:12 [main] INFO  ActionDriver - compared text match
+2026-01-07 14:42:13 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-07 14:42:13 [main] INFO  BaseClass - Chrome instance created
+2026-01-07 14:42:15 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-07 14:42:15 [main] WARN  BaseClass - This is a warn message
+2026-01-07 14:42:15 [main] TRACE BaseClass - This is a trace message
+2026-01-07 14:42:15 [main] DEBUG BaseClass - This is a debug message
+2026-01-07 14:42:15 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-07 14:42:15 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-07 14:42:16 [main] INFO  ActionDriver - Text entered
+2026-01-07 14:42:16 [main] INFO  ActionDriver - Text entered
+2026-01-07 14:42:16 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:42:18 [main] INFO  ActionDriver - Element is displayed
+2026-01-07 14:42:18 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:42:20 [main] INFO  ActionDriver - Clicked an element
+2026-01-07 14:42:20 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 12:12:37 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 12:12:37 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 12:12:41 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 12:12:41 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 12:12:42 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 12:12:42 [main] WARN  BaseClass - This is a warn message
+2026-01-08 12:12:42 [main] TRACE BaseClass - This is a trace message
+2026-01-08 12:12:42 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 12:12:42 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 12:12:42 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-08 12:12:43 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 12:12:43 [main] WARN  BaseClass - This is a warn message
+2026-01-08 12:12:43 [main] TRACE BaseClass - This is a trace message
+2026-01-08 12:12:43 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 12:12:43 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 12:12:43 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-08 12:12:43 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:12:43 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:12:44 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:12:44 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:12:55 [main] INFO  ActionDriver - Clicked an elementnull
+2026-01-08 12:12:55 [main] INFO  ActionDriver - Element is displayed
+2026-01-08 12:12:56 [main] INFO  ActionDriver - Clicked an elementElement with class oxd-userdropdown-tab
+2026-01-08 12:12:56 [main] INFO  ActionDriver - Clicked an elementnull
+2026-01-08 12:12:56 [main] INFO  ActionDriver - Element is displayed
+2026-01-08 12:12:56 [main] INFO  ActionDriver - Clicked an elementnull
+2026-01-08 12:13:07 [main] INFO  ActionDriver - Clicked an elementnull
+2026-01-08 12:13:08 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 12:13:27 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 12:13:55 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 12:13:56 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 12:13:58 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 12:13:58 [main] WARN  BaseClass - This is a warn message
+2026-01-08 12:13:58 [main] TRACE BaseClass - This is a trace message
+2026-01-08 12:13:58 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 12:13:58 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 12:13:58 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-08 12:13:59 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:13:59 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:14:01 [main] INFO  ActionDriver - Clicked an element null
+2026-01-08 12:14:01 [main] INFO  ActionDriver - Element is displayed
+2026-01-08 12:14:02 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 12:14:13 [main] INFO  ActionDriver - Clicked an element null
+2026-01-08 12:14:13 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 12:16:07 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 12:16:09 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 12:16:10 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 12:16:10 [main] WARN  BaseClass - This is a warn message
+2026-01-08 12:16:10 [main] TRACE BaseClass - This is a trace message
+2026-01-08 12:16:10 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 12:16:10 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 12:16:10 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-08 12:16:11 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:16:11 [main] INFO  ActionDriver - Text entered
+2026-01-08 12:16:11 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 12:16:14 [main] INFO  ActionDriver - Element is displayed
+2026-01-08 12:16:14 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 12:16:15 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 12:16:16 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 12:22:59 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 12:23:01 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 12:23:02 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 12:23:02 [main] WARN  BaseClass - This is a warn message
+2026-01-08 12:23:02 [main] TRACE BaseClass - This is a trace message
+2026-01-08 12:23:02 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 12:23:02 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 12:23:02 [main] INFO  BaseClass - Intitialize the actiondriver instance
+2026-01-08 12:23:03 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 12:23:03 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 12:23:03 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 12:23:05 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 12:23:05 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 12:23:07 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 12:23:08 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:37:58 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 14:38:01 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:38:02 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:38:02 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:38:02 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:38:02 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:38:02 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:38:02 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for TestNG-tests-1
+2026-01-08 14:38:02 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:38:03 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:38:04 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:38:04 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:38:04 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:38:04 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:38:04 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:38:04 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for TestNG-tests-1
+2026-01-08 14:38:05 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:38:07 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:38:07 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:38:07 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:38:07 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:38:07 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:38:07 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for TestNG-tests-1
+2026-01-08 14:39:48 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 14:39:49 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:39:50 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:39:50 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:39:50 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:39:50 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:39:50 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:39:50 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for TestNG-tests-1
+2026-01-08 14:39:51 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:39:51 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:39:52 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:39:52 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:39:52 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:39:52 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:39:52 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:39:52 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for TestNG-tests-1
+2026-01-08 14:39:53 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:39:54 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:39:54 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:39:54 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:39:54 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:39:54 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:39:54 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for TestNG-tests-1
+2026-01-08 14:42:22 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 14:42:23 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:42:24 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:42:24 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:42:24 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:42:24 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:42:24 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:42:24 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 14:42:24 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:42:25 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:42:26 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:42:26 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:42:26 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:42:26 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:42:26 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:42:26 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 14:42:27 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 14:42:27 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 14:42:27 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 14:42:29 [TestNG-tests-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 14:42:29 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 14:42:31 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 14:42:31 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:42:32 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:42:33 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:42:33 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:42:33 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:42:33 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:42:33 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:42:33 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 14:42:34 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 14:42:34 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 14:42:34 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 14:42:36 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 14:42:36 [TestNG-tests-1] INFO  ActionDriver - compared text match
+2026-01-08 14:42:36 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:42:37 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:42:38 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:42:38 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:42:38 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:42:38 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:42:38 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:42:38 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 14:42:39 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 14:42:39 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 14:42:40 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 14:42:41 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 14:42:41 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 14:42:42 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 14:42:43 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:43:00 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 14:43:01 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 14:43:01 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:43:01 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 14:43:02 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:43:02 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:43:02 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:43:02 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 14:43:02 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:43:02 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 14:43:02 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:43:02 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 14:43:02 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:43:02 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 14:43:02 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 14:43:02 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 14:43:02 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:43:02 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:43:02 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:43:02 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 14:43:02 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 50
+2026-01-08 14:43:02 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 14:43:02 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:43:03 [TestNG-test-Test-4] INFO  BaseClass - Chrome instance created
+2026-01-08 14:43:03 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 14:43:03 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 14:43:04 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 14:43:04 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 14:43:04 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 14:43:04 [TestNG-test-Test-4] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:43:04 [TestNG-test-Test-4] WARN  BaseClass - This is a warn message
+2026-01-08 14:43:04 [TestNG-test-Test-4] TRACE BaseClass - This is a trace message
+2026-01-08 14:43:04 [TestNG-test-Test-4] DEBUG BaseClass - This is a debug message
+2026-01-08 14:43:04 [TestNG-test-Test-4] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:43:04 [TestNG-test-Test-4] INFO  BaseClass - Action driver initialized for 51
+2026-01-08 14:43:04 [TestNG-test-Test-4] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 14:43:05 [TestNG-test-Test-4] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 14:43:05 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 14:43:05 [TestNG-test-Test-4] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 14:43:05 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayednull
+2026-01-08 14:43:06 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 14:43:07 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 14:43:07 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:43:16 [TestNG-test-Test-4] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 14:43:16 [TestNG-test-Test-4] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 14:43:17 [TestNG-test-Test-4] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 14:43:27 [TestNG-test-Test-4] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:43:28 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayednull
+2026-01-08 14:43:28 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:46:36 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 14:46:38 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 14:46:38 [TestNG-test-Test-4] INFO  BaseClass - Chrome instance created
+2026-01-08 14:46:38 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 14:46:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:46:39 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 14:46:39 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 14:46:39 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 14:46:39 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:46:39 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 50
+2026-01-08 14:46:40 [TestNG-test-Test-4] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:46:40 [TestNG-test-Test-4] WARN  BaseClass - This is a warn message
+2026-01-08 14:46:40 [TestNG-test-Test-4] TRACE BaseClass - This is a trace message
+2026-01-08 14:46:40 [TestNG-test-Test-4] DEBUG BaseClass - This is a debug message
+2026-01-08 14:46:40 [TestNG-test-Test-4] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:46:40 [TestNG-test-Test-4] INFO  BaseClass - Action driver initialized for 52
+2026-01-08 14:46:40 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:46:40 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 14:46:40 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 14:46:40 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 14:46:40 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:46:40 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 14:46:40 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 14:46:41 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 14:46:42 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 14:46:42 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 14:46:42 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 14:46:42 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 14:46:42 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 14:46:42 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 51
+2026-01-08 16:56:26 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 16:56:29 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 16:56:29 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 16:56:29 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 16:56:30 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:56:30 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 16:56:30 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 16:56:30 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 16:56:30 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:56:30 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 16:56:30 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:56:30 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 16:56:30 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 16:56:30 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 16:56:30 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:56:30 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 16:56:31 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:56:31 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 16:56:31 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 16:56:31 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 16:56:31 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:56:31 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 16:56:31 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:56:31 [TestNG-test-Test-4] INFO  BaseClass - Chrome instance created
+2026-01-08 16:56:32 [TestNG-test-Test-4] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:56:32 [TestNG-test-Test-4] WARN  BaseClass - This is a warn message
+2026-01-08 16:56:32 [TestNG-test-Test-4] TRACE BaseClass - This is a trace message
+2026-01-08 16:56:32 [TestNG-test-Test-4] DEBUG BaseClass - This is a debug message
+2026-01-08 16:56:32 [TestNG-test-Test-4] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:56:32 [TestNG-test-Test-4] INFO  BaseClass - Action driver initialized for 50
+2026-01-08 16:57:22 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 16:57:23 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:57:24 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:57:24 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:57:24 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:57:24 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:57:24 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:57:24 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:57:24 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:57:25 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:57:25 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:57:27 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 16:57:27 [main] INFO  ActionDriver - compared text match
+2026-01-08 16:57:27 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:57:28 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:57:29 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:57:29 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:57:29 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:57:29 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:57:29 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:57:29 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:57:29 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:57:30 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:57:30 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:57:32 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 16:57:32 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 16:57:34 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 16:57:34 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:57:43 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 16:57:44 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:57:45 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:57:45 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:57:45 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:57:45 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:57:45 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:57:45 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:57:46 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:57:46 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:57:46 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:57:48 [main] INFO  ActionDriver - Element is displayednull
+2026-01-08 16:57:48 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 16:57:51 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 16:57:51 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:58:08 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 16:58:09 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:58:10 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:58:10 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:58:10 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:58:10 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:58:10 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:58:10 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:58:11 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:58:11 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:58:12 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:58:12 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:58:12 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:58:12 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:58:12 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:58:12 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:58:13 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:58:13 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:58:14 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:58:15 [main] INFO  ActionDriver - Element is displayednull
+2026-01-08 16:58:15 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 16:58:18 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 16:58:18 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:58:19 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:58:20 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:58:20 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:58:20 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:58:20 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:58:20 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:58:20 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:58:21 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:58:21 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:58:21 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:58:23 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 16:58:23 [main] INFO  ActionDriver - compared text match
+2026-01-08 16:58:23 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:58:24 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 16:58:25 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:58:25 [main] WARN  BaseClass - This is a warn message
+2026-01-08 16:58:25 [main] TRACE BaseClass - This is a trace message
+2026-01-08 16:58:25 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 16:58:25 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:58:25 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 16:58:26 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:58:26 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:58:26 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:58:28 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 16:58:28 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 16:58:31 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 16:58:31 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:58:49 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 16:58:50 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 16:58:52 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:58:52 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 16:58:52 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 16:58:52 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 16:58:52 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:58:52 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 16:58:53 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:58:53 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 16:58:55 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:58:55 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 16:58:55 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 16:58:55 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 16:58:55 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:58:55 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 16:58:56 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:58:57 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:58:59 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:59:00 [TestNG-tests-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 16:59:00 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 16:59:05 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 16:59:05 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:59:06 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 16:59:08 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:59:08 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 16:59:08 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 16:59:08 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 16:59:08 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:59:08 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 16:59:10 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:59:10 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:59:10 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:59:14 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 16:59:14 [TestNG-tests-1] INFO  ActionDriver - compared text match
+2026-01-08 16:59:14 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 16:59:15 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 16:59:17 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 16:59:17 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 16:59:17 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 16:59:17 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 16:59:17 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 16:59:17 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 16:59:18 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 16:59:18 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 16:59:19 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 16:59:23 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 16:59:23 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 16:59:26 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 16:59:26 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:00:43 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:00:45 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:00:46 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:00:46 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:00:46 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:00:46 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:00:46 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:00:46 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:00:46 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:00:47 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:00:47 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:00:49 [TestNG-tests-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:00:49 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:00:50 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:00:50 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:00:51 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:00:52 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:00:52 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:00:52 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:00:52 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:00:52 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:00:52 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:00:53 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:00:53 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:00:53 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:00:55 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:00:55 [TestNG-tests-1] INFO  ActionDriver - compared text match
+2026-01-08 17:00:55 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:00:56 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:00:57 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:00:57 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:00:57 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:00:57 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:00:57 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:00:57 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:00:58 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:00:58 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:00:58 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:01:00 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:01:00 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:01:03 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:01:03 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:01:18 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:01:19 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:01:19 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:01:20 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:01:20 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:01:20 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:01:20 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:01:20 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:01:20 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 17:01:20 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:01:20 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:01:20 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:01:20 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:01:20 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:01:20 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:01:21 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 17:01:21 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:01:21 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:01:22 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:01:22 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:01:22 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:01:22 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:01:22 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:01:22 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 17:01:22 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 17:01:22 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 17:01:22 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:01:22 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 17:01:23 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:01:23 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:01:23 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:01:23 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:01:24 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:01:24 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:01:26 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:01:27 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:01:35 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:01:35 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:01:36 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:01:47 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:01:47 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:03:35 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:03:37 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 17:03:37 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:03:38 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:03:38 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 17:03:38 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 17:03:38 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 17:03:38 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:03:38 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 17:03:38 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:03:38 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:03:38 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:03:38 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:03:38 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:03:38 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:03:38 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:03:38 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:03:39 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:03:39 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:03:39 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:03:39 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:03:39 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:03:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:03:39 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:03:39 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:03:39 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:03:39 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:03:39 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:03:40 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:03:40 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:03:40 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:03:41 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:03:41 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:03:42 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:03:43 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:03:43 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:04:03 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:04:03 [TestNG-test-Test-2] INFO  ActionDriver - compared text match
+2026-01-08 17:04:03 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:04:04 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:10:06 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:10:07 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:10:07 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:10:08 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:10:08 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:10:08 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:10:08 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:10:08 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:10:08 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:10:08 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:10:08 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:10:08 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:10:08 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:10:08 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:10:08 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 17:10:09 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 17:10:09 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:10:09 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:10:09 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:10:09 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:10:09 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:10:10 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:10:10 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:10:10 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 17:10:10 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 17:10:10 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 17:10:10 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:10:10 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 17:10:11 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:10:11 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:10:11 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:10:11 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:10:11 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:10:13 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:10:13 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:10:21 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:10:33 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:10:33 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:11:04 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:11:05 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:11:05 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:12:55 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:12:56 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 17:12:57 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:12:57 [main] WARN  BaseClass - This is a warn message
+2026-01-08 17:12:57 [main] TRACE BaseClass - This is a trace message
+2026-01-08 17:12:57 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 17:12:57 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:12:57 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 17:12:58 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:12:58 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:12:58 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:13:00 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:13:00 [main] INFO  ActionDriver - compared text match
+2026-01-08 17:13:01 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:13:05 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:13:06 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 17:13:08 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:13:08 [main] WARN  BaseClass - This is a warn message
+2026-01-08 17:13:08 [main] TRACE BaseClass - This is a trace message
+2026-01-08 17:13:08 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 17:13:08 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:13:08 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 17:13:08 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:13:08 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:13:09 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:13:11 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:13:11 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:13:12 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:13:12 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:13:34 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:13:35 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 17:13:36 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:13:36 [main] WARN  BaseClass - This is a warn message
+2026-01-08 17:13:36 [main] TRACE BaseClass - This is a trace message
+2026-01-08 17:13:36 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 17:13:36 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:13:36 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 17:13:37 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:13:37 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:13:37 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:13:39 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:13:39 [main] INFO  ActionDriver - compared text match
+2026-01-08 17:13:39 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:13:40 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 17:13:41 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:13:41 [main] WARN  BaseClass - This is a warn message
+2026-01-08 17:13:41 [main] TRACE BaseClass - This is a trace message
+2026-01-08 17:13:41 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 17:13:41 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:13:41 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 17:13:42 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:13:42 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:13:42 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:13:44 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:13:44 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:13:46 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:13:46 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:14:58 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:14:59 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:01 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:01 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:01 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:01 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:01 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:01 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:15:01 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:01 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:01 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:03 [TestNG-tests-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:15:03 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:15:06 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:15:07 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:15:08 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:09 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:09 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:09 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:09 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:09 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:09 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:15:10 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:10 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:10 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:12 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:15:12 [TestNG-tests-1] INFO  ActionDriver - compared text match
+2026-01-08 17:15:12 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:15:13 [TestNG-tests-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:15 [TestNG-tests-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:15 [TestNG-tests-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:15 [TestNG-tests-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:15 [TestNG-tests-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:15 [TestNG-tests-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:15 [TestNG-tests-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:15:16 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:16 [TestNG-tests-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:17 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:18 [TestNG-tests-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:15:18 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:15:20 [TestNG-tests-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:15:20 [TestNG-tests-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:15:32 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:15:33 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:33 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:34 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:34 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:34 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:34 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:34 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:34 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:15:34 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:34 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:34 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:34 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:34 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:34 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:15:35 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:35 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:35 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:35 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:35 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:35 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:37 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:15:37 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:15:37 [TestNG-test-Test-2] INFO  ActionDriver - compared text match
+2026-01-08 17:15:37 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:15:37 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:15:38 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:38 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:15:38 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:15:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:39 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:39 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:39 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:39 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:39 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:15:40 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:41 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:41 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:43 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:15:43 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:15:44 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:15:44 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:15:55 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:15:57 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:57 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:58 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:58 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:58 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:58 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:58 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:58 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:15:58 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:15:59 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 17:15:59 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:15:59 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:15:59 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:15:59 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:15:59 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:15:59 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:15:59 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:15:59 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:15:59 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:16:00 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:16:00 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:16:00 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 17:16:00 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 17:16:00 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 17:16:00 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:16:00 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 17:16:00 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:16:00 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:16:00 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:16:02 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:16:02 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:16:03 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:16:03 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:16:11 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:16:11 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:16:22 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:16:23 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:16:34 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:16:44 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:16:44 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:20:27 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:20:28 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:20:28 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 17:20:29 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:20:29 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:20:29 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:20:29 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:20:29 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:20:29 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:20:30 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:20:30 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 17:20:30 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 17:20:30 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 17:20:30 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:20:30 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 49
+2026-01-08 17:20:30 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:20:30 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:20:30 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:20:31 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:20:31 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:20:31 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:20:31 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:20:32 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:20:32 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:20:32 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:20:32 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:20:32 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:20:32 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 17:20:32 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:20:33 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:20:33 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:20:33 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:20:33 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:20:33 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:20:36 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:20:37 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:20:55 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:20:55 [TestNG-test-Test-2] INFO  ActionDriver - compared text match
+2026-01-08 17:22:17 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:39:20 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:39:22 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:39:22 [TestNG-test-Test-3] INFO  BaseClass - Chrome instance created
+2026-01-08 17:39:24 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:39:24 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:39:24 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:39:24 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:39:24 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:39:24 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 17:39:24 [TestNG-test-Test-3] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:39:24 [TestNG-test-Test-3] WARN  BaseClass - This is a warn message
+2026-01-08 17:39:24 [TestNG-test-Test-3] TRACE BaseClass - This is a trace message
+2026-01-08 17:39:24 [TestNG-test-Test-3] DEBUG BaseClass - This is a debug message
+2026-01-08 17:39:24 [TestNG-test-Test-3] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:39:24 [TestNG-test-Test-3] INFO  BaseClass - Action driver initialized for 48
+2026-01-08 17:39:26 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:39:26 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:39:26 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:39:26 [TestNG-test-Test-3] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:39:26 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:39:26 [TestNG-test-Test-3] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:39:26 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:39:26 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:39:26 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:39:26 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:39:26 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:39:26 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:39:26 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 47
+2026-01-08 17:39:28 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:39:28 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:39:29 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:39:29 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayednull
+2026-01-08 17:39:29 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 17:39:30 [TestNG-test-Test-3] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:39:35 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 17:39:35 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:39:51 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:39:51 [TestNG-test-Test-2] INFO  ActionDriver - compared text match
+2026-01-08 17:39:51 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:39:51 [TestNG-test-Test-3] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:47:12 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 17:47:13 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 17:47:14 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:47:14 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 17:47:14 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 17:47:14 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 17:47:14 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:47:14 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 17:47:15 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:47:15 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 17:47:15 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:47:16 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:47:16 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 17:47:16 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 17:47:16 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 17:47:16 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 17:47:16 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 17:47:16 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 39
+2026-01-08 17:47:17 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 17:47:17 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 17:47:17 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 17:47:27 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 17:47:39 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 17:47:39 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 17:47:39 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 17:47:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 18:06:34 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 18:06:36 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 18:06:37 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 18:06:37 [main] WARN  BaseClass - This is a warn message
+2026-01-08 18:06:37 [main] TRACE BaseClass - This is a trace message
+2026-01-08 18:06:37 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 18:06:37 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 18:06:37 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 18:06:38 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 18:06:38 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 18:06:38 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 18:06:40 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 18:06:40 [main] INFO  ActionDriver - compared text match
+2026-01-08 18:06:40 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 18:06:41 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 18:06:42 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 18:06:42 [main] WARN  BaseClass - This is a warn message
+2026-01-08 18:06:42 [main] TRACE BaseClass - This is a trace message
+2026-01-08 18:06:42 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 18:06:42 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 18:06:42 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 18:06:43 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 18:06:43 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 18:06:43 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 18:06:45 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 18:06:45 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 18:06:47 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 18:06:47 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:52:56 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 20:52:58 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 20:52:59 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:52:59 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 20:52:59 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 20:52:59 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 20:52:59 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:52:59 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 20:53:00 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 20:53:00 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:53:00 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:53:01 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:53:02 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:53:02 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 20:53:02 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 20:53:02 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 20:53:02 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:53:02 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 41
+2026-01-08 20:53:02 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:53:02 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:53:03 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 20:53:04 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:53:11 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 20:53:12 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 20:53:23 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 20:53:33 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:53:34 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:54:29 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 20:54:30 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 20:54:30 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:54:30 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 20:54:30 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 20:54:30 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 20:54:30 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:54:30 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 52
+2026-01-08 20:54:31 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 20:54:32 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:54:32 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:54:32 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:54:33 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:54:33 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 20:54:33 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 20:54:33 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 20:54:33 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:54:33 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 53
+2026-01-08 20:54:34 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:54:34 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 20:54:34 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:54:44 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:54:56 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 20:54:56 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 20:55:08 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 20:55:18 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:55:19 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:55:32 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 20:55:33 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 20:55:35 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:55:35 [main] WARN  BaseClass - This is a warn message
+2026-01-08 20:55:35 [main] TRACE BaseClass - This is a trace message
+2026-01-08 20:55:35 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 20:55:35 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:55:35 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 20:55:35 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:55:36 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:55:36 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:55:38 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 20:55:38 [main] INFO  ActionDriver - compared text match
+2026-01-08 20:55:38 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:56:06 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 20:56:07 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 20:56:09 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:56:09 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 20:56:09 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 20:56:09 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 20:56:09 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:56:09 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 43
+2026-01-08 20:56:09 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:56:09 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 20:56:10 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:56:10 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:56:11 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 20:56:11 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 20:56:11 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 20:56:11 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 20:56:11 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 20:56:11 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 44
+2026-01-08 20:56:11 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 20:56:11 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 20:56:22 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 20:56:22 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 20:56:34 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 20:56:34 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 20:57:05 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 20:57:05 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 20:57:06 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:01:43 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:01:44 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:01:46 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:01:46 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:01:46 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:01:46 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:01:46 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:01:46 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 43
+2026-01-08 21:01:47 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:01:47 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:01:47 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:01:47 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:01:47 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:01:47 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:01:47 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:01:47 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:01:47 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:01:47 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 44
+2026-01-08 21:01:49 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:01:49 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:01:49 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:01:59 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:02:11 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:02:11 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:02:42 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:02:43 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:02:43 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:13:59 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:14:01 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:14:03 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:14:04 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:14:04 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:14:04 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:14:04 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:14:04 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:14:04 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 21:15:32 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:15:33 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:15:35 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:15:35 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:15:35 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:15:35 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:15:35 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:15:35 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:15:36 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:15:36 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:15:36 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:15:39 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:15:39 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:15:41 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:15:42 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:15:46 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:15:47 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:15:49 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:15:49 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:15:49 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:15:49 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:15:49 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:15:49 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:15:50 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:15:50 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:15:50 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:15:53 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:15:53 [main] INFO  ActionDriver - compared text match
+2026-01-08 21:15:53 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:16:01 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:16:02 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:16:04 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:16:04 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:16:04 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:16:04 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:16:04 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:16:04 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 21:16:05 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:16:05 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:16:05 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:16:05 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:16:07 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:16:07 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:16:07 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:16:07 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:16:07 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:16:07 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 39
+2026-01-08 21:16:08 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:16:08 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:16:08 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:16:10 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:19:09 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:19:10 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:19:10 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 21:19:11 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:19:11 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:19:11 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:19:13 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:19:13 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:19:13 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:19:13 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:19:13 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:19:13 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:19:15 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:19:15 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:19:15 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:19:21 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:19:21 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:19:30 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:19:31 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:19:35 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:19:37 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:19:38 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:19:38 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:19:38 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:19:38 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:19:38 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:19:38 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:19:40 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:19:40 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:19:40 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:19:42 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:19:42 [main] INFO  ActionDriver - compared text match
+2026-01-08 21:19:42 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:19:52 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:19:53 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:19:54 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:19:54 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:19:54 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:19:54 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:19:54 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:19:54 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 46
+2026-01-08 21:19:55 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:19:55 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:19:55 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:19:55 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:19:56 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:19:56 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:19:56 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:19:56 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:19:56 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:19:56 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 45
+2026-01-08 21:19:57 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:19:57 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:20:28 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:20:28 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:20:58 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:20:59 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:20:59 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:21:00 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:21:00 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 21:21:00 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:25:24 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:25:25 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:25:27 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:25:27 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:25:27 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:25:27 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:25:27 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:25:27 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 39
+2026-01-08 21:25:27 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:25:27 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:25:28 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:25:28 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:25:29 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:25:29 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:25:29 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:25:29 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:25:29 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:25:29 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 21:25:29 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:25:29 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:25:29 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:25:38 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 21:25:39 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement located by: By.xpath: //span[text()='Admin']
+2026-01-08 21:25:39 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:25:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:25:48 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:25:49 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:25:51 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:25:51 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:25:51 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:25:51 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:25:51 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:25:51 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 52
+2026-01-08 21:25:52 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:25:52 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:25:52 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:25:52 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:25:53 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:25:53 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:25:53 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:25:53 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:25:53 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:25:53 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 51
+2026-01-08 21:25:54 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:26:24 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:26:24 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:26:55 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:26:55 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:26:56 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:26:56 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:26:57 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:26:57 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 21:26:58 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:27:39 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:27:40 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:27:42 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:27:42 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:27:42 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:27:42 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:27:42 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:27:42 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:27:43 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:27:43 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:27:43 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:27:45 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:27:45 [main] INFO  ActionDriver - compared text match
+2026-01-08 21:27:45 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:27:46 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:27:47 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:27:47 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:27:47 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:27:47 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:27:47 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:27:47 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:27:48 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:27:49 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:27:49 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:27:51 [main] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:27:51 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:27:53 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:27:53 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:28:09 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:28:10 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:28:12 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:28:12 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:28:12 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:28:12 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:28:12 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:28:12 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 43
+2026-01-08 21:28:12 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:28:12 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:28:13 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:28:13 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:28:13 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:28:13 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:28:13 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:28:13 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:28:13 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:28:13 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 44
+2026-01-08 21:28:14 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:28:14 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:28:14 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:28:44 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 21:28:45 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:28:45 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:28:48 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 21:28:48 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:29:22 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:29:22 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:32:52 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:32:54 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:32:54 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:32:55 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:32:55 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:32:55 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:32:55 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:32:55 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:32:55 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 43
+2026-01-08 21:36:51 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:36:52 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:36:54 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:36:54 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:36:54 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:36:54 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:36:54 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:36:54 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:36:54 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:36:54 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:36:55 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:36:57 [main] INFO  ActionDriver - Element is displayednull
+2026-01-08 21:36:57 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:36:59 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:36:59 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:37:10 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:37:11 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:37:13 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:37:13 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:37:13 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:37:13 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:37:13 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:37:13 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:37:14 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:37:14 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:37:14 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:37:16 [main] INFO  ActionDriver - Element is displayednull
+2026-01-08 21:37:16 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:37:19 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:37:20 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:39:04 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:39:05 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:39:07 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:39:07 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:39:07 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:39:07 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:39:07 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:39:07 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:39:09 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:39:09 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:39:09 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:39:14 [main] INFO  ActionDriver - Element is displayednull
+2026-01-08 21:39:14 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:39:24 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:39:24 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:39:43 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:39:44 [main] INFO  BaseClass - Chrome instance created
+2026-01-08 21:39:46 [main] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:39:46 [main] WARN  BaseClass - This is a warn message
+2026-01-08 21:39:46 [main] TRACE BaseClass - This is a trace message
+2026-01-08 21:39:46 [main] DEBUG BaseClass - This is a debug message
+2026-01-08 21:39:46 [main] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:39:46 [main] INFO  BaseClass - Action driver initialized for 3
+2026-01-08 21:39:46 [main] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:39:47 [main] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:39:47 [main] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:39:49 [main] INFO  ActionDriver - Element is displayednull
+2026-01-08 21:39:49 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 21:39:50 [main] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 21:39:50 [main] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:44:17 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:44:19 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:44:19 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:44:19 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:44:19 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:44:19 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:44:19 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:44:19 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 39
+2026-01-08 21:44:21 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:44:21 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:44:21 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:44:21 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:44:22 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:44:22 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:44:22 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:44:22 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:44:22 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:44:22 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 21:44:23 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 21:44:23 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 21:44:23 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 21:44:23 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 21:44:32 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 21:44:32 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement located by: By.xpath: //span[text()='Admin']
+2026-01-08 21:44:32 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:44:32 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 21:44:47 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:48:21 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 21:48:22 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 21:48:23 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:48:23 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 21:48:23 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 21:48:23 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 21:50:14 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 21:50:45 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 56
+2026-01-08 21:50:48 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 21:50:48 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 21:50:48 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 21:50:48 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 21:50:48 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 21:56:56 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 22:02:42 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:02:44 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 22:02:45 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:02:45 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 22:02:45 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 22:02:45 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 22:02:45 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:02:45 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 40
+2026-01-08 22:02:46 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:02:46 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:02:46 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:02:47 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:02:48 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:02:48 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:02:48 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:02:48 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:02:48 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:02:48 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 41
+2026-01-08 22:02:49 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 22:03:19 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 22:03:19 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:03:19 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:03:19 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:03:19 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:03:21 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:03:22 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 22:03:33 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 22:03:33 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:10:37 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:10:38 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:10:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:10:39 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:10:39 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:10:39 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:10:39 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:10:39 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 52
+2026-01-08 22:10:40 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:10:41 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 22:10:41 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:10:42 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:10:42 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 22:10:42 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 22:10:42 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 22:10:42 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:10:42 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 51
+2026-01-08 22:10:43 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:10:43 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:11:34 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:13:04 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:13:06 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 22:13:06 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 22:13:07 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:13:47 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:20:53 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:20:54 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:20:56 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:20:56 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:20:56 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:20:56 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:20:56 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:20:56 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 46 | Driver hash: 153547402
+2026-01-08 22:20:56 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:20:57 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 22:20:57 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:20:57 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:20:57 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:20:57 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 22:20:57 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 22:20:57 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 22:20:57 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:20:57 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 45 | Driver hash: 153547402
+2026-01-08 22:20:59 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:20:59 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:20:59 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:20:59 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:23:36 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:23:38 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:23:39 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:23:39 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:23:39 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:23:39 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:23:39 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:23:39 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 47 | Driver hash: 1877957916
+2026-01-08 22:23:40 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 22:23:40 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:23:41 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:23:41 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:23:42 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:23:42 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 22:23:42 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 22:23:42 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 22:23:42 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:23:42 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 46 | Driver hash: 1877957916
+2026-01-08 22:23:43 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:23:43 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:24:00 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 22:24:01 [TestNG-test-Test-1] INFO  ActionDriver - compared text match
+2026-01-08 22:24:01 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:24:01 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:24:15 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement located by: By.name: password
+2026-01-08 22:24:15 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement located by: By.xpath: //p[text()='Invalid credentials']
+2026-01-08 22:24:15 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:24:15 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:29:42 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:29:43 [TestNG-test-Test-1] INFO  BaseClass - Chrome instance created
+2026-01-08 22:29:47 [TestNG-test-Test-1] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:29:47 [TestNG-test-Test-1] WARN  BaseClass - This is a warn message
+2026-01-08 22:29:47 [TestNG-test-Test-1] TRACE BaseClass - This is a trace message
+2026-01-08 22:29:47 [TestNG-test-Test-1] DEBUG BaseClass - This is a debug message
+2026-01-08 22:29:47 [TestNG-test-Test-1] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:29:47 [TestNG-test-Test-1] INFO  BaseClass - Action driver initialized for 45 | Driver hash: 1019196400
+2026-01-08 22:29:48 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:29:48 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:29:48 [TestNG-test-Test-1] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:29:48 [TestNG-test-Test-1] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:29:51 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:29:51 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:29:51 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:29:51 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:29:51 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:29:51 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 46 | Driver hash: 1019196400
+2026-01-08 22:29:55 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:29:55 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:29:55 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:29:59 [TestNG-test-Test-1] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--p oxd-alert-content-text
+2026-01-08 22:31:33 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:31:33 [TestNG-test-Test-1] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:31:33 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 22:31:35 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 22:31:35 [TestNG-test-Test-2] INFO  BaseClass - Webdriver and actionDriver instance closed
+2026-01-08 22:35:22 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:35:23 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:35:24 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:35:24 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:35:24 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:35:24 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:35:24 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:35:24 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 40 | Driver hash: 911357034
+2026-01-08 22:35:25 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:35:25 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:35:25 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:35:27 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:35:27 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 22:35:30 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
+2026-01-08 22:36:13 [main] INFO  BaseClass - config.properties file loaded
+2026-01-08 22:36:14 [TestNG-test-Test-2] INFO  BaseClass - Chrome instance created
+2026-01-08 22:36:16 [TestNG-test-Test-2] INFO  BaseClass - Webdriver initialized and Browser maximized
+2026-01-08 22:36:16 [TestNG-test-Test-2] WARN  BaseClass - This is a warn message
+2026-01-08 22:36:16 [TestNG-test-Test-2] TRACE BaseClass - This is a trace message
+2026-01-08 22:36:16 [TestNG-test-Test-2] DEBUG BaseClass - This is a debug message
+2026-01-08 22:36:16 [TestNG-test-Test-2] INFO  ActionDriver - Webdriver instance created
+2026-01-08 22:36:16 [TestNG-test-Test-2] INFO  BaseClass - Action driver initialized for 40 | Driver hash: 566233172
+2026-01-08 22:36:17 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name username
+2026-01-08 22:36:17 [TestNG-test-Test-2] INFO  ActionDriver - Text entered atElement with name password
+2026-01-08 22:36:18 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-button oxd-button--medium oxd-button--main orangehrm-login-button
+2026-01-08 22:36:19 [TestNG-test-Test-2] INFO  ActionDriver - Element is displayedElement with class oxd-text oxd-text--span oxd-main-menu-item--name
+2026-01-08 22:36:19 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-tab
+2026-01-08 22:36:21 [TestNG-test-Test-2] INFO  ActionDriver - Clicked an element Element with class oxd-userdropdown-link
