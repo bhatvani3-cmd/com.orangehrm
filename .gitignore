@@ -23,3 +23,14 @@ test-output/
 
 # Screenshots
 src/test/resources/screenshots/
+# Logs
+OrangeHRMProject/logs/
+# Maven target folder
+OrangeHRMProject/target/
+# Test output and reports
+OrangeHRMProject/test-output/
+# Screenshots
+OrangeHRMProject/src/test/resources/screenshots/
+# ExtentReports (optional if you want fresh reports per run)
+OrangeHRMProject/src/test/resources/ExtentReport/
+
