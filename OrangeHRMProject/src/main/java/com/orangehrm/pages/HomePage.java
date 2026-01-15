@@ -13,9 +13,9 @@ public class HomePage {
 	private By admin= By.xpath("//span[text()='Admin']");
 	private By userNameButton = By.xpath("//span[@class='oxd-userdropdown-tab']");
 	private By logout= By.xpath("//a[text()='Logout']");
-	private By orangeHRMLogo = By.xpath("//div[@class='oxd-brand-banner']//img");
-	
-	
+	private By orangeHRMLogo = By.xpath("//img[@alt='client brand banner']");
+	//private By orangeHRMLogo = By.xpath("//h6[normalize-space()='Dashboard']");
+	 
 	public HomePage(WebDriver driver) {
 		this.actionDriver = BaseClass.getactionDriver();
 	}
