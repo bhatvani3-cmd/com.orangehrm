@@ -1,0 +1,25 @@
+# Logs
+logs/
+*.log
+
+# Build folders
+target/
+bin/
+*.class
+
+# TestNG / Extent Reports
+test-output/
+*.html
+
+# Eclipse / IDE files
+.settings/
+.classpath
+.project
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Screenshots
+src/test/resources/screenshots/
