@@ -18,6 +18,12 @@ public class DataProviders {
 		return getSheetData("invalidLoginTest");
 	}
 	
+	@DataProvider(name="empDBVerification")
+	public static Object[][] empDBVerification(){
+		return getSheetData("empDBVerification");
+	}
+	
+	
 	private static Object[][] getSheetData(String sheetName){
 		List<String[]> sheetData = ExcelUtility.getSheetData(File_Path, sheetName);
 		
